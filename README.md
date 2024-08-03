@@ -4,6 +4,8 @@
 
 Gameplay: https://youtu.be/CG0lAeMO7ok
 
+download: https://www.nexusmods.com/valheim/mods/2853
+
 A basic valheim mod made with bepinex, You will need to install bepinex 5 in order for this mod to work.
 
 Features:
