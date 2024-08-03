@@ -6,6 +6,9 @@ A basic valheim mod made with bepinex, You will need to install bepinex 5 in ord
 
 Features:
 --Super speed
+
 --Super jump
+
 --Super punch
+
 --Invincible player
